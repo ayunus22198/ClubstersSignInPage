@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ClubstersSignInPage/precache-manifest.4d67d037d87b3f5692dd45c4922a911a.js"
+  "/ClubstersSignInPage/precache-manifest.46ff11fb9af61374a6abea897863f823.js"
 );
 
 self.addEventListener('message', (event) => {
